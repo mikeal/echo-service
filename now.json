@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "echo-server",
+  "builds": [
+    { "src": "src/*js", "use": "@now/node" }
+  ]
+}
