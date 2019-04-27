@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pretest": "standard",
+    "test": "tap test/test-*.js --100"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
@@ -13,6 +14,8 @@
     "now": "^15.0.8"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "bent": "^1.4.1",
+    "standard": "^12.0.1",
+    "tap": "^13.0.3"
   }
 }
