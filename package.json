@@ -1,7 +1,7 @@
 {
   "name": "echo-service",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple echo server for live testing hosted on Zeit",
   "main": "index.js",
   "scripts": {
     "pretest": "standard",
