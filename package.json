@@ -14,7 +14,7 @@
     "now": "^15.0.8"
   },
   "devDependencies": {
-    "bent": "^1.4.1",
+    "bent": "^6.0.2",
     "standard": "^12.0.1",
     "tap": "^13.0.3"
   }
