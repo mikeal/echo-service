@@ -11,7 +11,7 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
-    "now": "^15.0.8"
+    "now": "^16.1.2"
   },
   "devDependencies": {
     "bent": "^1.4.1",
