@@ -3,7 +3,7 @@
   "name": "echo-server",
   "builds": [
     { "src": "src/*js", "use": "@now/node" }
-  ], 
+  ],
   "routes": [
     { "src": "/src/(.*)",
       "methods": ["POST", "OPTIONS", "GET", "PUT", "PATCH"],
